@@ -1,7 +1,9 @@
 /* Add styling for your page here */
 
 .App {
-
+display: flex;
+align-items: flex-start;
+justify-content: space-around;
 }
 
 .BakeryItem {
